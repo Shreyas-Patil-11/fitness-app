@@ -41,4 +41,4 @@ Welcome to **WorkoutHub**, a modern and responsive fitness website that helps us
    ```bash
    npm start
 
-4. Update .env file and Config.js file your Rapid Api Key and Gemini Api key
+4. Update .env file and gemini.js file your Rapid Api Key and Gemini Api key
