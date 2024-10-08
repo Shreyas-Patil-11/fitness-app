@@ -29,7 +29,7 @@ Welcome to **WorkoutHub**, a modern and responsive fitness website that helps us
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/workouthub.git
+   git clone (https://github.com/Shreyas-Patil-11/fitness-app.git)
 
 2. Install dependencies
 
